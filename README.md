@@ -2,6 +2,10 @@
 
 A simple movie discovery app built with React 19, Vite, and Tailwind CSS. Search for movies and view trending titles using the TMDB API.
 
+## 🌟 Live Demo
+
+**🚀 [View Live App](https://movie-flix-9gsq.vercel.app/) 🚀**
+
 ![MovieFlix Preview](public/hero.png)
 
 ## ✨ Features
