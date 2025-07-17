@@ -13,7 +13,7 @@ A simple movie discovery app built with React 19, Vite, and Tailwind CSS. Search
 ## 🛠️ Tech Stack
 - React 19
 - Vite
-- Tailwind CSS
+- Tailwind CSS v4
 - TMDB API
 - Appwrite (optional)
 
